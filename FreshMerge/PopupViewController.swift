@@ -24,6 +24,7 @@ class PopupViewController: ViewController {
     
     
     
+    
     @IBOutlet weak var labelText: UILabel!
 
     override func viewDidLoad() {
