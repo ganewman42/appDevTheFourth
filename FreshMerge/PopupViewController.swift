@@ -39,6 +39,8 @@ class PopupViewController: ViewController {
 
     
     
+    
+    
     func overlayImage() -> UIImage {
         let newSize = photo.frame.size
         
